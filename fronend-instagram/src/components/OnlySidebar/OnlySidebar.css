@@ -1,0 +1,7 @@
+.slick-slider .slider-story .slick-initialized {
+  z-index: 1 !important;
+}
+
+.slick-list {
+  z-index: 1;
+}

@@ -1,0 +1,270 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "nshoang_222",
+      "fullName": "Nguyễn Sỹ Hoàng111",
+      "email": "nshoang270298@gmail.com",
+      "password": "123456789",
+      "followers": [],
+      "following": [
+        1
+      ],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1529533608-0cccb90f390a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1529533608-0cccb90f390a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3VjY2l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": true
+        }
+      ],
+      "status": false,
+      "condition": "unblock"
+    },
+    {
+      "userName": "Linh_ne`",
+      "fullName": "An Thuỳ Linh",
+      "email": "anlinh98@gmail.com",
+      "password": "linh123456",
+      "followers": [
+        2
+      ],
+      "following": [],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdpcmwlMjBiZWF1dHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": true
+        }
+      ],
+      "status": false,
+      "condition": "block",
+      "id": 2
+    },
+    {
+      "userName": "thienphu_11",
+      "fullName": "Hoàng Thiên Phú",
+      "email": "thienphu97@gmail.com",
+      "password": "@123456789",
+      "followers": [],
+      "following": [],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": true
+        }
+      ],
+      "status": false,
+      "id": 4
+    },
+    {
+      "userName": "binh_soc",
+      "fullName": "Phạm Tuấn Bình",
+      "email": "tuanbinh@gmail.com",
+      "password": "@23456789",
+      "followers": [],
+      "following": [],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": true
+        }
+      ],
+      "status": false,
+      "condition": "unblock",
+      "id": 5
+    },
+    {
+      "userName": "Hai_banh_111",
+      "fullName": "Nguyễn Minh Hải ",
+      "email": "hainguyen@gmail.com",
+      "password": "@12345678",
+      "followers": [],
+      "following": [
+        6
+      ],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1687360440667-493016988a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": true
+        }
+      ],
+      "status": false,
+      "condition": "unblock",
+      "id": 6
+    },
+    {
+      "userName": "thanh_cham_chi",
+      "fullName": "Nguyễn Xuân Thành",
+      "email": "xuanthanh@gmail.com",
+      "password": "123456789",
+      "followers": [],
+      "following": [],
+      "avata": [
+        {
+          "image": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-1.jpg",
+          "activeAvata": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1576899262336-444459d0dbe0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGd1Y2NpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+          "activeAvata": true
+        }
+      ],
+      "status": true,
+      "condition": "unblock",
+      "id": 7
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "idUser": "nshoang_222",
+      "avataUser": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "https://images.unsplash.com/photo-1614605772698-d788c931346e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGd1Y2NpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "caption": "xinhh ❤",
+      "likePost": [
+        3
+      ],
+      "commentPost": []
+    },
+    {
+      "idUser": "nshoang_222",
+      "avataUser": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "caption": "Đôi mắt",
+      "likePost": [
+        1,
+        3
+      ],
+      "commentPost": [
+        {
+          "idComment": "1694336256138",
+          "textComment": "bbbb",
+          "userCommnet": "nshoang_222",
+          "imageComment": [
+            "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "idUser": "nshoang_222",
+      "avataUser": "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "https://images.unsplash.com/photo-1693952875302-9e600b8ddc6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "caption": "nó chuẩn bị rơi đâyy",
+      "likePost": [
+        2,
+        3,
+        1
+      ],
+      "commentPost": [
+        {
+          "idComment": "1694336248772",
+          "textComment": "aaa",
+          "userCommnet": "nshoang_222",
+          "imageComment": [
+            "https://images.unsplash.com/photo-1693861830799-9abd7199eb21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "idUser": "Linh_ne`",
+      "avataUser": [
+        "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdpcmwlMjBiZWF1dHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60g"
+      ],
+      "image": "https://images.unsplash.com/photo-1576608648778-dc30935c9463?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3VjY2l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "caption": "Những bộ đồ đẹp 🤙🏻",
+      "likePost": [
+        2,
+        3,
+        6
+      ],
+      "commentPost": [
+        {
+          "idComment": "1694395199837",
+          "textComment": "wooowww đẹp thật",
+          "userCommnet": "Linh_ne`",
+          "imageComment": [
+            "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdpcmwlMjBiZWF1dHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ]
+        },
+        {
+          "idComment": "1694395212648",
+          "textComment": "rất đẹp",
+          "userCommnet": "Linh_ne`",
+          "imageComment": [
+            "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdpcmwlMjBiZWF1dHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ]
+        },
+        {
+          "idComment": "1694567516482",
+          "textComment": "Bộ đồ thật đẹp",
+          "userCommnet": "Hai_banh_111",
+          "imageComment": [
+            "https://images.unsplash.com/photo-1687360440667-493016988a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60"
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "idUser": "Hai_banh_111",
+      "avataUser": [
+        "https://images.unsplash.com/photo-1687360440667-493016988a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60"
+      ],
+      "image": "https://images.unsplash.com/photo-1694439368032-230a1bad9617?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      "caption": "Đôi giầy mới mua đẹp quá",
+      "likePost": [
+        1
+      ],
+      "commentPost": [],
+      "id": 5
+    },
+    {
+      "idUser": "thanh_cham_chi",
+      "avataUser": [
+        "https://images.unsplash.com/photo-1576899262336-444459d0dbe0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGd1Y2NpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      ],
+      "image": "https://images.unsplash.com/photo-1569525215766-c4c3316fce14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGd1Y2NpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "caption": "mẫu xinh",
+      "likePost": [],
+      "commentPost": [],
+      "id": 6
+    }
+  ],
+  "stories": [],
+  "admin": [
+    {
+      "email": "admin.instagram@gmail.com",
+      "password": "admin@1234"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+/* story */
+.slider-story {
+    width: 630px;
+    height: 85px;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+  }
+  .story-item {
+    width: 64px;
+    height: 84px;
+    padding: 0px 6px;
+  }
+  .story-img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+    border-style: double;
+    padding: 2.5px;
+    background-image: linear-gradient(250deg, rgb(225, 39, 197), rgb(225, 204, 15));
+  }
+  .story-name {
+    width: 56px;
+    max-height: 16px;
+    font-size: 10px;
+    text-align: center;
+    display: inline;
+  }

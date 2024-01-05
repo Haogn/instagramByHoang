@@ -1,0 +1,94 @@
+.wapper-homepage {
+  width: 1290px;
+  min-height: 7450px;
+  display: flex;
+  margin-left: 15.5rem;
+}
+.body {
+  display: flex;
+  padding: 0px 143.5px;
+}
+/* body center */
+.body .body-center {
+  width: 630px;
+  min-height: 7000px;
+}
+/* story */
+
+/* list bài post */
+.body .list-post {
+  width: 630px;
+  height: 7400px;
+  padding: auto;
+  margin: auto;
+}
+
+
+
+/* body-right */
+.body .body-right {
+  width: 383px;
+  max-height: 600px;
+  padding: 0px 0px 0px 64px;
+  /* background-color: rgb(127, 77, 77); */
+  display: flex;
+}
+.account {
+  width: 319px;
+  height: 555px;
+  /* margin: 36px 0 0; */
+}
+/* tài khaorn chính */
+.account-main {
+  width: 319px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.account-left {
+  width: 54px;
+  height: 54px;
+  margin: auto;
+}
+.account-img {
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin-top: 5px;
+}
+.account-center {
+  width: 178px;
+  height: 54px;
+}
+.account-right {
+  flex: 1;
+}
+.follow {
+  border: none;
+  background-color: transparent;
+  color: rgb(40, 40, 131);
+  font-size: 16px;
+  text-align: right;
+  margin-bottom: 2px;
+}
+/* gợi ý các tài khoản  */
+.account-second {
+  width: 319px;
+  height: 400px;
+}
+.suggest {
+  width: 319px;
+  height: 20px;
+}
+.account-suggest {
+  width: 319px;
+  height: 54px;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}

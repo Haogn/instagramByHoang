@@ -1,0 +1,13 @@
+.wapper-header {
+  height: 30px;
+  width: 100w;
+}
+.new-post {
+  margin-top: 5px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50%;
+  border: none;
+}
